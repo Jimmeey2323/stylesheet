@@ -1,0 +1,22 @@
+.go-to-bangalore-dashboard {
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    text-transform: none;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    font-size: 0.875rem;
+    line-height: 1;
+    color: rgb(117, 75, 241);
+    font-weight: 500;
+    cursor: pointer;
+    box-sizing: border-box;
+    white-space: normal;
+    width: 100%;
+    display: block;
+    opacity: 1;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: white;
+    border: 1px solid rgb(117, 75, 241);
+    border-radius: 5px;
+}
